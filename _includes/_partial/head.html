@@ -38,7 +38,6 @@
     <meta name="twitter:description" content="page.description">
     <meta name="twitter:creator" content="@{{ site.author.twitter }}">
     <link rel="publisher" href="{{ site.author.google_plus }}">
-
     {% if site.rss %}
     <link rel="alternative" href="{{site.baseurl}}{{ site.rss }}" title="{{ site.title }}" type="application/atom+xml">
     {% endif %}
@@ -71,5 +70,14 @@
         padding-right: 0em !important;
       }
     </style>
+    <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?8098426c8e1405932849de79038b5ca1";
+      var s = document.getElementsByTagName("script")[0]; 
+      s.parentNode.insertBefore(hm, s);
+    })();
+    </script>
     {% endif %}
 </head>
