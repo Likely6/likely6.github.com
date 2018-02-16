@@ -470,6 +470,7 @@ input[type='search']::-webkit-search-decoration
     float: left;
     width: 4em;
     height: 4em;
+    margin-right: 1em;
 }@media only screen and (min-width:768px)
 {
     #imglogo
@@ -509,7 +510,7 @@ input[type='search']::-webkit-search-decoration
     font-family: 'covered_by_your_graceregular';
     font-size: 200%;
     line-height: 1.5;
-
+    text-align: left;
     width: 86%;
 
     -webkit-font-smoothing: antialiased;

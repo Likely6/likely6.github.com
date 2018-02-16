@@ -1,7 +1,7 @@
 ---
 title: 关于移动端针对不同设备像素比时背景图片使用2x图与3x图的解决办法
 date: 2018-02-16
-categories: 前端 CSS
+categories: CSS
 tags: CSS SCSS
 ---
 

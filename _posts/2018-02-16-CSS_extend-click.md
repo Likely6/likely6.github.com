@@ -1,7 +1,7 @@
 ---
 title: 关于移动端图标点击范围太小问题
 date: 2018-02-16
-categories: 前端 CSS
+categories: CSS
 tags: CSS SCSS
 ---
 

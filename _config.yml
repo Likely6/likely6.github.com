@@ -29,7 +29,7 @@ paginate: 20
 
 #### Site
 title : likely6
-tagline: A fresh looking and responsive theme for Jekyll
+tagline: 个人博客
 assets: /assets
 url:
 baseurl:
