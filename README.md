@@ -73,12 +73,3 @@ bundle exec jekyll server
 - **其他**
  你可以设置侧边栏在博文页面中不显示。
 
-## 协议
-
-[MIT](/LICENSE)
-
-## 捐赠
-
-支付宝捐赠链接还是要有的，万一真的有人捐呢。
-
-![支付宝扫码捐赠](http://p1.bpimg.com/567571/9a4a158daee8aa69.png)
