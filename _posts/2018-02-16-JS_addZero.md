@@ -9,7 +9,7 @@ tags: JS ES6
 
 {% highlight r %}
 /**
- * @parama  {Number \| String} 需要补0的数字
+ * @parama  {Number String} 需要补0的数字
  * @paramb  {Number} 该串数字的长度
  * @return  {String}
  */
@@ -21,7 +21,6 @@ let addZero = (str, length = 2) => {
 	}
 	return (Array(length).join('0') + str).substr(-length)
 }
-</br>
 # 方法二
 let addZero = (str, length = 2) => {
 	str = str.toString()
