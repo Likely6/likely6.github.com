@@ -1,6 +1,6 @@
 ---
 title: 补0的两种方法
-date: 2018-02-17
+date: 2018-02-16
 categories: JS ES6
 tags: JS ES6
 ---

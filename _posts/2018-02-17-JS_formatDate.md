@@ -1,6 +1,6 @@
 ---
 title: 传入date对象和日期格式返回格式化后的日期
-date: 2018-02-17
+date: 2018-02-16
 categories: JS
 tags: JS
 ---
