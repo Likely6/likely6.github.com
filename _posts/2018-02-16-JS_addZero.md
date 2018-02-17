@@ -19,7 +19,7 @@ let addZero = (str, length = 2) => {
 	return (Array(length).join('0') + str).substr(-length)
 }
 
-# str.repeat(n) 返回一个新字符串，表示将原字符串重复n次
+// str.repeat(n) 返回一个新字符串，表示将原字符串重复n次
 let addZero = (str, length = 2) => {
 	str = str.toString()
 	length = str.length < length ? length - str.length : 0
