@@ -38,6 +38,7 @@ console.log(parseUrl(url)) //return {id:'6', type: 'js'}
 >replace({String Regexp},{String Function})
 
 	url.replace(reg, (res, $1, $2, ..., index, str) => {
+		// ...表示这里可以有$3、$4...$9 就看你正则里面有多少个分组
 		// 以上面的url为例 第一次匹配到时
 		// res = 'id=6'	匹配到的文本
 		// $1 = 'id'	$1是表达式中的第一个分组里的文本

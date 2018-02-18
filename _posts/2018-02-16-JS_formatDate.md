@@ -31,3 +31,4 @@ let formatDate = (date, fmt = 'yyyy-MM-dd hh:mm:ss') => {
 	return fmt
 }
 {% endhighlight %}
+>[关于正则$n的使用可以点击这里参考](http://gh.moment16.com/js/2018/02/18/JS_RegExp-replace-$1/#more)
