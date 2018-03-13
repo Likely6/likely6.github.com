@@ -28,16 +28,16 @@ tags: VUE vue-bswiper better-scroll
 
 ```html
 <template>
-	<div class="banner">
-		<Swiper :autoPlay="false">
-		    <a href="http://gh.moment16.com">
-		      <img src="http://d300.paixin.com/thumbs/1016676/40179869/staff_1024.jpg?imageView2/2/w/400/h/400">
-		    </a>
-		    <a href="javascript:void(0)">
-		      <img src="http://d007.paixin.com/thumbs/1003434/9017610/staff_1024.jpg?imageView2/2/w/400/h/400">
-		    </a>
-	  	</Swiper>
-	</div>
+  <div class="banner">
+    <Swiper :autoPlay="false">
+      <a href="http://gh.moment16.com">
+        <img src="http://d300.paixin.com/thumbs/1016676/40179869/staff_1024.jpg?imageView2/2/w/400/h/400">
+      </a>
+      <a href="javascript:void(0)">
+        <img src="http://d007.paixin.com/thumbs/1003434/9017610/staff_1024.jpg?imageView2/2/w/400/h/400">
+      </a>
+    </Swiper>
+  </div>
 </template>
 ```
 
@@ -45,9 +45,9 @@ tags: VUE vue-bswiper better-scroll
 <script>
 import BSwiper from 'vue-bswiper'
 export default {
-	components: {
-		BSwiper
-	}
+  components: {
+    BSwiper
+  }
 }
 </script>
 ```
@@ -55,8 +55,8 @@ export default {
 ```css
 <style lang="scss" scoped>
 .banner{
-	width:100%;
-	height: 200px;
+  width:100%;
+  height: 200px;
 }
 </style>
 ```
